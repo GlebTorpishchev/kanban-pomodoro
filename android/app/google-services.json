@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163597134525",
+    "project_id": "kanban-pomodoro",
+    "storage_bucket": "kanban-pomodoro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163597134525:android:dde7164227b5a4477725d4",
+        "android_client_info": {
+          "package_name": "com.example.kanban_pomodoro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPuc6Mfe_tN8ntPIZkJcUU5_vcaZWr9tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
